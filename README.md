@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/6fFVVHyL)
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=18979856)
 # GitHub and Python Foundations Assignment
 
 ## Overview
@@ -47,11 +49,8 @@ This assignment will help you practice:
 - Clone the repository to your local machine to begin working on the assignment
 
 ### Part 1: Update this README.md
-Replace the "Part 1" section with:
-- A brief introduction about yourself (first name only)
-- What you're hoping to get out of this course
-- Topics you would like to see included
-- A musical recommendation and a link to something about it (song, album, artist)
+Hey, I'm Amrita. I am hoping to learn more about machine learning in python and hopefully touch on pytorch and tensorflow. If we could go through some simulated technical interviews, that would be super useful too! Along with that, anything deep learning would be great, I have no idea what thats about and i'd like to learn what all the fuss is :) I am currently loving the song "Timeless" by the Weeknd and Playboi Carti: https://www.youtube.com/watch?v=5EpyN_6dqyk&ab_channel=TheWeekndVEVO enjoy!!! 
+
 
 ### Part 2: Complete the email_hasher.py Script
 The email_hasher.py script should:
